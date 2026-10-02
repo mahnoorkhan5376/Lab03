@@ -1,4 +1,7 @@
 
-this line was edited in github
+
 this line was changed locally
+this line was created for merge conflict
+
+
 # Lab03
